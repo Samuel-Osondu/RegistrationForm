@@ -167,8 +167,7 @@ const Form = () => {
         </button>
       </form>
       
-      
-      <p>
+         <p>
         <br/>
           Already registered? 
         <br />
